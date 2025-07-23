@@ -1,4 +1,4 @@
-# 🧠 Task API Backend – Think41
+# 🧠 Task API Backend
 
 Welcome to the **Task API Backend**, a clean and lightweight FastAPI-based project for managing tasks with support for filtering, sorting, and pagination. Designed for rapid development, testing, and real-world use cases.
 
